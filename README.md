@@ -13,11 +13,21 @@ Turistas
 • Registro de restaurante con características y precios 
 • ⁠Registro de usuario con preferencias 
 • ⁠Validación de ubicación y/o elección de localidad.
+
+
 🎨 Diseñador UX/UI - Bocetos y flujo
+
+
 Vista de adición de restaurantes: 
 
 
 ![vistaRestaurante](https://github.com/user-attachments/assets/bab2eb12-2e60-42e8-97e0-10c6fbe1f535)
+
+Vista busqueda de restaurantes:
+
+
+![vistaUsuario](https://github.com/user-attachments/assets/7af0234b-9498-4372-8081-b9da77b197e3)
+
 
 🔧 QA Tester - Pruebas
 Caso de prueba 1: Registro exitoso de restaurante nuevo
