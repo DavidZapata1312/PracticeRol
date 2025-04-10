@@ -33,6 +33,12 @@ Vista busqueda de restaurantes:
 ![vistaUsuario](https://github.com/user-attachments/assets/7af0234b-9498-4372-8081-b9da77b197e3)
 
 
+Diagrama de flujo: 
+
+![Captura desde 2025-04-10 09-05-29](https://github.com/user-attachments/assets/a1d603d5-186f-44e5-b427-658503e66b8f)
+
+
+
 🛠️ Desarrollador - Implementación
 
 •	Feature implementada:  Registro de restaurante con características y precios
