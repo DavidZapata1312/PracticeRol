@@ -67,3 +67,54 @@ Caso de prueba 3: Consulta por categoría
 1.	Que el input no sea validado correctamente.
 2.	Que no se muestren resultados aunque existan datos en el archivo.
 3.	Que ocurran errores al acceder al archivo JSON si está dañado.
+
+📦 DevOps/Mantenimiento - Despliegue:
+
+Desplegaremos la página en la plataforma llamada
+
+Render
+
+Ideal para: Full-stack apps (Node.js, Python, Rails, etc.)
+
+Ventajas: Soporta backend y bases de datos, despliegue continuo y dominio gratuito.
+
+Desventajas: Puede ser más lento que Vercel o Netlify en el free tier.
+
+Tendremos 2 mejoras a futuro que serían: 
+
+1. Programación de pedidos de comida a domicilio:
+
+Se propone incorporar en la aplicación una funcionalidad que permita a los usuarios programar pedidos de comida con anticipación para ser entregados en una fecha y hora específica. Esta mejora busca brindar mayor comodidad, control y planificación a los usuarios en sus experiencias de consumo.
+
+Características principales:
+
+Selección anticipada de platos y restaurante como en un pedido regular.
+
+Opción de agendar el pedido para un día y hora determinados (por ejemplo, "viernes a las 7:00 p.m.").
+
+Confirmación automática del pedido en la fecha indicada y notificación al restaurante minutos antes del horario previsto.
+
+
+Beneficios:
+
+Permite a los usuarios planificar sus comidas para eventos, reuniones o días ocupados.
+
+Aumenta la fidelización del cliente al ofrecer un servicio más flexible y conveniente.
+
+2. Sistema de ranking de tiendas
+
+Se propone desarrollar e implementar un sistema de ranking para las tiendas presentes en la página, con el objetivo de destacar las mejores opciones para los usuarios y fomentar la competencia positiva entre los comercios registrados.
+
+Características principales:
+
+Ranking visible en la página principal o en la sección de búsqueda, destacando las tiendas con mejor rendimiento.
+
+Criterios de evaluación combinados: calificaciones de usuarios, volumen de ventas, tiempos de entrega, tasa de cumplimiento de pedidos y opiniones recientes.
+
+Filtros para ordenar por diferentes métricas (mejor puntuación, más populares, más rápidas, etc.).
+
+Beneficios:
+
+Mejora la experiencia del usuario al facilitar la elección de tiendas confiables y de alta calidad.
+
+Aumenta la visibilidad de los mejores comercios, incentivando su buen desempeño.
