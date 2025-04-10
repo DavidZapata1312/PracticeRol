@@ -18,6 +18,26 @@ Turistas
 
 • ⁠Validación de ubicación y/o elección de localidad.
 
+📊 Analista - Análisis
+
+Tareas:
+
+• ⁠Registrar restaurantes con sus caracteristicas.
+
+• ⁠Buscar restaurantes en base a sus caracteristica.
+
+Dificultad estimada: 
+
+• ⁠Regristro: Alta.
+
+• ⁠Busqueda: Media.
+
+Restricciones:
+
+• ⁠Cumplimiento de las caracteristicas preestablecidas.
+
+• ⁠Existencia de una base de datos con los restaurantes.
+
 
 🎨 Diseñador UX/UI - Bocetos y flujo
 
