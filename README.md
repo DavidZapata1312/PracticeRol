@@ -57,6 +57,7 @@ Caso de prueba 2: Prevención de duplicados
 •	Errores potenciales:
 1.	Permitir el registro duplicado si se usan variaciones en mayúsculas o espacios.
 2.	Fallos en la comparación del nombre por no utilizar .lower() para validar.
+   
 Caso de prueba 3: Consulta por categoría
 
 •	Objetivo: Verificar que al seleccionar una categoría, se muestren todos los restaurantes correspondientes.
