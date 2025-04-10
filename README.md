@@ -29,6 +29,10 @@ Vista busqueda de restaurantes:
 ![vistaUsuario](https://github.com/user-attachments/assets/7af0234b-9498-4372-8081-b9da77b197e3)
 
 
+🛠️ Desarrollador - Implementación
+•	Feature implementada:  Registro de restaurante con características y precios
+
+
 🔧 QA Tester - Pruebas
 Caso de prueba 1: Registro exitoso de restaurante nuevo
 •	Objetivo: Confirmar que se pueda registrar un restaurante nuevo con datos válidos sin inconvenientes.
